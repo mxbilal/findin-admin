@@ -3,7 +3,7 @@ import React from 'react'
 const AddBusiness = () => {
   return (
     <div>
-      add business
+      add businesses
     </div>
   )
 
