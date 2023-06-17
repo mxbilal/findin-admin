@@ -1,0 +1,34 @@
+{
+  "result": [
+    {
+      "userId": 1,
+      "userName": "umair gulzar",
+      "points": 3.5,
+      "comment": "test description",
+      "businessImage": "Images/c72f0a2f-6859-4e9e-aa3c-19eb818895ab_bakers.jpg",
+      "businessName": "haleem ghar",
+      "date": ""
+    },
+    {
+      "userId": 2,
+      "userName": "weqww wdwewrw",
+      "points": 4.5,
+      "comment": "description",
+      "businessImage": "Images/c72f0a2f-6859-4e9e-aa3c-19eb818895ab_bakers.jpg",
+      "businessName": "haleem ghar",
+      "date": ""
+    },
+    {
+      "userId": 1,
+      "userName": "umair gulzar",
+      "points": 2.5,
+      "comment": "t",
+      "businessImage": "Images/c72f0a2f-6859-4e9e-aa3c-19eb818895ab_bakers.jpg",
+      "businessName": "haleem ghar",
+      "date": "Feb 28, 2023"
+    }
+  ],
+  "code": 0,
+  "message": "success",
+  "returnUrl": null
+}

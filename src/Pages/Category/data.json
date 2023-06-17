@@ -1,0 +1,35 @@
+{
+  "result": [
+    {
+      "categoryId": 2027,
+      "name": "Hotel",
+      "imageUrl": "ClientApp/src/img/39dd4604-c0ac-4136-ac22-34f4206e4548_Screenshot (1).png",
+      "description": "Hotel parent category",
+      "activeInActive": true
+    },
+    {
+      "categoryId": 1017,
+      "name": "new tesing",
+      "imageUrl": "ClientApp/src/img/566f68a8-6ce4-493f-9adf-e1d3d934d2ef_baker.jpg",
+      "description": "testing ",
+      "activeInActive": true
+    },
+    {
+      "categoryId": 1015,
+      "name": "pharmacy",
+      "imageUrl": "ClientApp/src/img/8a851cf2-a7b3-4994-83f6-bb4b2c870093_pharma.jpg",
+      "description": "pharmacy Parent",
+      "activeInActive": true
+    },
+    {
+      "categoryId": 1011,
+      "name": "Coffee",
+      "imageUrl": "Images/f8aa2799-9121-48be-b9a0-74396fc06968_pharmacy.jpg",
+      "description": "Coffee shops",
+      "activeInActive": true
+    }
+  ],
+  "code": 0,
+  "message": "success",
+  "returnUrl": null
+}

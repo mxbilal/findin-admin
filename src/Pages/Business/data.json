@@ -1,0 +1,112 @@
+{
+  "result": [
+    {
+      "id": 1011,
+      "categoryName": "Hotel",
+      "businessName": "Business new ",
+      "description": "testing business",
+      "businessImage": "ClientApp/src/img/99f164e2-244a-425a-b8e3-7c649e0466f9_Screenshot (2).png"
+    },
+    {
+      "id": 1010,
+      "categoryName": "Hotel",
+      "businessName": "weqrewrqw",
+      "description": "sfesfsaf",
+      "businessImage": "ClientApp/src/img/0e5fe01f-de52-4f1f-b0cf-0357ed639b7f_Screenshot (1).png"
+    },
+    {
+      "id": 1009,
+      "categoryName": "Hotel",
+      "businessName": "wqrewr",
+      "description": "fsdfsadf",
+      "businessImage": "ClientApp/src/img/96f4b7e4-8f72-4228-9fb2-6e07d2576e07_Screenshot (1).png"
+    },
+    {
+      "id": 1008,
+      "categoryName": "Hotel",
+      "businessName": "Marriot",
+      "description": "Restaurant and rooms",
+      "businessImage": "ClientApp/src/img/1e004859-573c-44f5-92bf-bb456060b6b7_Screenshot (1).png"
+    },
+    {
+      "id": 1007,
+      "categoryName": "pharmacy",
+      "businessName": "bismilAllah",
+      "description": "sdfsfsdfsdfsdf",
+      "businessImage": "ClientApp/src/img/ff675270-0d56-4601-9eef-904dfd9c78a4_Screenshot 2023-03-17 210733.png"
+    },
+    {
+      "id": 1006,
+      "categoryName": "pharmacy",
+      "businessName": "",
+      "description": "asdadsad",
+      "businessImage": "ClientApp/src/img/9601f770-4bb7-496b-9509-679050fb2f1b_Screenshot 2023-03-17 210733.png"
+    },
+    {
+      "id": 1005,
+      "categoryName": "pharmacy",
+      "businessName": "",
+      "description": "asdadsad",
+      "businessImage": "ClientApp/src/img/191d0234-a581-4c69-9dfd-3897ae7d2a77_Screenshot 2023-03-17 210733.png"
+    },
+    {
+      "id": 1004,
+      "categoryName": "Coffee",
+      "businessName": "",
+      "description": "asdad",
+      "businessImage": "ClientApp/src/img/6d653db8-439d-4b88-85e7-1fbe1696fbca_Screenshot 2023-03-17 210733.png"
+    },
+    {
+      "id": 1003,
+      "categoryName": "Coffee",
+      "businessName": "",
+      "description": "sdsdsd",
+      "businessImage": "ClientApp/src/img/1b60ce4a-f47b-4396-8a44-739473cbb023_Screenshot 2023-03-17 210733.png"
+    },
+    {
+      "id": 1001,
+      "categoryName": "Hotel",
+      "businessName": "BBQ Night",
+      "description": "TEST",
+      "businessImage": "Images/ef57ecbd-3a5b-4138-abc2-2ba094210170_pharmacy.jpg"
+    },
+    {
+      "id": 5,
+      "categoryName": "Bakers",
+      "businessName": "Tehzeeb",
+      "description": "no text",
+      "businessImage": "Images/70fbb819-9bfd-44b0-b5cc-c5ffb6d60bd8_market.jpg"
+    },
+    {
+      "id": 4,
+      "categoryName": "Bakers",
+      "businessName": "London Bakers",
+      "description": "no text",
+      "businessImage": "Images/5a7876b5-cafb-4f34-a43b-c6669611b413_market.jpg"
+    },
+    {
+      "id": 3,
+      "categoryName": "Bakers",
+      "businessName": "Bread & Butter",
+      "description": "no text",
+      "businessImage": "Images/47d02aa1-6cc0-48ba-badc-db60fee78b54_market.jpg"
+    },
+    {
+      "id": 2,
+      "categoryName": "Restaurant",
+      "businessName": "Hot & spicy",
+      "description": "no text",
+      "businessImage": "Images/6d774df3-a1a8-496b-a840-7b17d9287466_market.jpg"
+    },
+    {
+      "id": 1,
+      "categoryName": "Hotel",
+      "businessName": "haleem ghar",
+      "description": "no text",
+      "businessImage": "Images/c72f0a2f-6859-4e9e-aa3c-19eb818895ab_bakers.jpg"
+    }
+  ],
+  "code": 0,
+  "message": "success",
+  "returnUrl": null
+}
