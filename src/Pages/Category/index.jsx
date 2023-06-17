@@ -76,7 +76,7 @@ const Category = () => {
     <div>
       {
         loader ? <Skeleton active /> :
-          <Table columns={columns} dataSource={businessData} />}
+          <Table rowKey='categoryId' columns={columns} dataSource={businessData} />}
       <Modal title="Update Data" open={isModalOpen} onOk={handleOk} onCancel={handleCancel}>
         <h3>{data.name ?? ""}</h3>
         <p>{data.description ?? ""}</p>

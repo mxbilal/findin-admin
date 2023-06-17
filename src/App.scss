@@ -2,6 +2,22 @@ body {
   margin: 0;
 }
 
+.admin-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  img {
+    width: 30px;
+    height: auto;
+  }
+
+  p {
+    color: white;
+    font-size: 20px;
+  }
+}
+
 .public-route {
   display: flex;
   justify-content: center;

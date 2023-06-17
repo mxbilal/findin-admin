@@ -58,7 +58,10 @@ const LayoutPage = ({ children }) => {
           zIndex: '999'
         }}
       >
-        <div className="demo-logo" style={{ color: 'white' }}>Admin Logo</div>
+        <div className="admin-logo">
+          <img src='/icon.png' />
+          <p>FindIn Admin</p>
+        </div>
         <Button>Logout</Button>
       </Header>
       <Layout hasSider>

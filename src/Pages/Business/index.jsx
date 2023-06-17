@@ -51,7 +51,7 @@ const Business = () => {
   }, [])
   return (
     <div>
-      <Table columns={columns} dataSource={businessData} />
+      <Table rowKey='id' columns={columns} dataSource={businessData} />
     </div>
   )
 }
